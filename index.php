@@ -3,5 +3,5 @@
 
 </head>
 <body>
-    <a href="beranda.php">Press this</a> 
+    <a href="HalamanBeranda/beranda.php">Press this</a> 
 </body>
