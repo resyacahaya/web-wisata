@@ -14,7 +14,7 @@
         <ul>
 			<li><a href="index.php?page=religi">RELIGI</a></li>
 			<li><a href="index.php?page=kuliner">KULINER</a></li>
-			<li><a href="alam.php?page=alam">ALAM</a></li>
+			<li><a href=index.php?page=alam">ALAM</a></li>
 	</ul>
     </nav>
     </header>
