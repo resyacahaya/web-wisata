@@ -1,70 +1,244 @@
-body {
-  background-color: #f9f9f9;
-  font-size: 16px;
-  color: #444;
-  font-family: sans-serif;
+body{
+	background-color:#fff;
+	font-size:16px;
+	color:#444;
+	font-family: sans-serif;
+}
+ 
+.content{
+	width: 100%;
+}
+ 
+ /*banner*/
+.container{
+	width: 100%;
+}
+ 
+.header {
+    padding: 0px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-position: center;
+	margin-top: -20px;
+}
+.kalsel{
+	margin-top: 100px;
+	text-align: center;
+	color:#7C1212;
+}
+.kalsel h1{
+	margin-top: -15px;
+	text-align: center;
+	color:#7C1212;
+	text-transform:uppercase;
 }
 
-.content {
-  width: 80%;
-  margin: 10px auto;
+.tentangkalsel{
+	background-color: #fff;
+	width: 95%;
+	border: 1px #444;
+	border-radius: 20px;
+	box-shadow: 2px 2px 7px 7px #444;
+	padding: 20px;
+	margin: 10px;
 }
+/*wisata*/
+.wisata{
+	margin-top: 100px;
+	text-align: center;
+}
+.wisata h1{
+	color: #7C1212;
+}
+
+.wisata h3{
+	text-align: center;
+	font-family: 'Segoe UI';
+	font-size: 35px;
+	color: #444;
+}
+
+.wisata-list {
+		width: 100%;
+		padding: 5px;
+		display: flex;
+		justify-content: center;
+}
+
+.kartu-alam {
+	    margin-left: 0%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-kuliner {
+	    margin-left: 2%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-religi {
+	    margin-left: 2%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-alam img{
+    width: 200px;
+    border-radius: 10%;
+}
+.kartu-kuliner img{
+    width: 200px;
+    border-radius: 10%;
+}
+.kartu-religi img{
+    width: 200px;
+    border-radius: 10%;
+}
+/*wisata*/
+.sosmed{
+	margin-top: 100px;
+	text-align: center;
+}
+.sosmed h1{
+	color: #7C1212;
+}
+
+.sosmed h3{
+	text-align: center;
+	font-family: 'Segoe UI';
+	font-size: 35px;
+	color: #444;
+}
+
+.sosmed-list {
+		width: 100%;
+		padding: 5px;
+		display: flex;
+		justify-content: center;
+}
+
+.kartu-sosmed1 {
+	    margin-left: 0%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-sosmed2 {
+	    margin-left: -7%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-sosmed3 {
+	    margin-left: -7%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-sosmed4 {
+	    margin-left: -7%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-sosmed5 {
+	    margin-left: -7%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.kartu-sosmed1 img{
+    width: 300px;
+    border-radius: 10%;
+}
+.kartu-sosmed2 img{
+    width: 300px;
+    border-radius: 10%;
+}
+.kartu-sosmed3 img{
+    width: 300px;
+    border-radius: 10%;
+}
+.kartu-sosmed4 img{
+    width: 300px;
+    border-radius: 10%;
+}
+.kartu-sosmed5 img{
+    width: 300px;
+    border-radius: 10%;
+}
+
+/*menu navigasi*/
 
 nav {
-  background-color: #f0f0f0;
-  padding: 5px;
-  text-align: right;
-  position: sticky;
-  top: 0;
-  overflow: auto;
+   background-color: #f0f0f0;
+   padding: 5px;
+   text-align: right;
+   position: sticky;
+   top: 0;
+   overflow: auto;
 }
 nav li {
-  display: inline;
-  list-style-type: none;
-  margin-right: 20px;
-  width: 10px;
+   display: inline;
+   list-style-type: none;
+   margin-right: 20px;
+   width: 10px;
 }
 nav a {
-  font-size: 16px;
-  font-weight: 600;
-  text-decoration: none;
-  color: #000;
-  margin-top: 30px;
+   font-size: 16px;
+   font-weight: 600;
+   text-decoration: none;
+   color: #000;
+   margin-top: 30px;
 }
-nav img {
-  margin-left: 30px;
-  float: left;
-  height: 45px;
+nav img{
+	margin-left: 30px; 
+	float: left;
+	height: 45px;
+}
+ 
+ 
+div.badan{
+	background-color: white;
+
+	
+}
+ 
+div.halaman{
+	text-align: center;
+	padding: 30px 20px;	
 }
 
-div.badan {
-  background-color: white;
+.footer{
+	margin-top: 30px;
+	background-color: #fff;
+	border: 1px solid #fff;
 }
-
-div.halaman {
-  text-align: center;
-  padding: 30px 20px;
-}
-
-.footer {
-  background-color: #fff;
-  border: 1px solid #fff;
-}
-
+ 
 div.footer ul {
-  list-style: none;
-  overflow: hidden;
+	list-style:none;
+	overflow: hidden;
 }
-
+ 
 div.footer ul li {
-  float: left;
-  text-transform: uppercase;
+	float:left;		
+	text-transform:uppercase;
 }
-
+ 
 div.footer ul li a {
-  display: block;
-  color: #000;
-  font-family: sans-serif;
-  font-size: 12px;
-  font-weight: 400;
+	display:block;	
+	color:#000;
+	font-family: sans-serif;
+	font-size:12px;
+	font-weight:400;
 }
