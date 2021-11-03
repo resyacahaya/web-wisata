@@ -1,52 +1,97 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Amazin Kalsel</title>
+	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
-
-<header>
  	<nav>
  	<img src="img/logoamazingkalsel.png" alt="logo">
         <ul>
-			<li><a href="index.php?page=religi">RELIGI</a></li>
-			<li><a href="index.php?page=kuliner">KULINER</a></li>
-			<li><a href=index.php?page=alam">ALAM</a></li>
-	</ul>
+			<li><a href="alam.php?page=alam">ALAM</a></li>
+			<li><a href="kuliner.php?page=kuliner">KULINER</a></li>
+            <li><a href="religi.php?page=religi">RELIGI</a></li>
+		</ul>
     </nav>
-    </header>
- 
-	<div class="badan">
- 
- 
-	<?php 
-	if(isset($_GET['page'])){
-		$page = $_GET['page'];
- 
-		switch ($page) {
-			case 'alam':
-				include "halaman/beranda_alam.php";
-				break;
-			case 'kuliner':
-				include "halaman/beranda_kuliner.php";
-				break;
-			case 'religi':
-				include "halaman/beranda_religi.php";
-				break;			
-			default:
-				echo "<center><h3>Maaf. Halaman tidak di temukan !</h3></center>";
-				break;
-		}
-	}else{
-		include "halaman/alam.php";
-	}
- 
-	 ?>
- 
+
+<!-- Banner -->
+    <div class="container">
+      <div class="header">
+          <img src="img/traveler.png" width="100%" height="500">
+      </div>
+      <div class="kalsel">
+          <h1>Tentang</h1>
+          <h1>Kalimantan Selatan</h1>
+    </div>
+    <div class="tentangkalsel">
+        <p>Gunung Meratus membelah Kalimantan Selatan menjadi 2 wilayah yang berbeda. Bagian selatan provinsi adalah daratan rendah dengan sungai-sungai 
+yang terbentang melewati menuju rawa hutan bakau yang luas sepanjang pesisir pantai dan menjadikan tanah Kalimantan luar biasa subur.Pada 
+umumnya daerah Kalimantan Selatan terdiri dari dua musim, yaitu musim hujan dan musim kemarau (panas). Musim hujan biasanya terjadi pada bulan 
+Oktober sampai Mei. Sedangkan musim kemarau (panas) terjadi pada bulan Juni sampai Agustus dan di antara kedua musim tersebut terdapat musim 
+pancaroba.Di Kalimantan Selatan Anda dapat menikmati wisata alam yang terdiri dari banyak sungai, hutan, danau, dan pegunungan, serta wisata 
+budaya dan sejarah berupa peninggalan beranekaragam seni dan budaya.
+</p>
+        <p>Banyak perkampungan dan pemukiman dibangun di sepanjang sungai Barito oleh penduduk asli Banjar.</p>
+        <p>Di sinilah Anda dapat menikmati budaya sungai di Banjarmasin sebagai corak budaya tersendiri yang menarik. Sebagian besar kegiatan masyarakat di 
+Banjarmasin terjadi sungai atau di sekitar sungai. Oleh karena itu sangatlah menarik menyaksikan kehidupan kota dari tengah sungai. Daerah pinggiran 
+kota pemandangan alam sungainya masih asli dan wisatawan dapat menyusuri sepanjang sungai Martapura dan sungai Barito dengan menggunakan 
+perahu Klotok dan Speedboat.</p>
+        <p>Kerajinan tradisional yang indah dibuat dari bahan baku lokal seperti batu, emas, perak, kuningan, besi, dan juga berbagai varietas kayu seperti bambu 
+dan rotan.</p>
+
+</div>
+
+<div class="wisata">
+		<h1>WISATA</h1>
+		<p>Berwisata di Kalimantan Selatan tidak cukup jika hanya mengunjungi satu kawasan<br>
+		Jelajahi berbagai tempat favorit mulai dari kawasan wisata alam, wisata kuliner, dan wisata religi.</p>
 	</div>
+     <!-- wisata content -->
+        <section id="wisata">
+                <div class="wisata-list">
+                    <div class="kartu-alam">
+                        <img src="img/alam-wisata.png"/>
+                    </div>
+                    <div class="kartu-kuliner">
+                        <img src="img/kuliner-wisata.png"/>
+                    </div>
+                    <div class="kartu-religi">
+                        <img src="img/religi-wisata.png"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+<div class="sosmed">
+		<h1>MEDIA SOSIAL</h1>
+		<p>Kunjungi dan ikuti juga akun Amazing Kalsel di Instagram <br>
+		untuk mendapatkan rekomendasi terbaru.</p>
+	</div>
+     <!-- sosmed -->
+        <section id="sosmed">
+                <div class="sosmed-list">
+                    <div class="kartu-sosmed1">
+                        <img src="img/sosmed1.png"/>
+                    </div>
+                    <div class="kartu-sosmed2">
+                        <img src="img/sosmed2.png"/>
+                    </div>
+                    <div class="kartu-sosmed3">
+                        <img src="img/sosmed3.png"/>
+                    </div>
+                    <div class="kartu-sosmed4">
+                        <img src="img/sosmed4.png"/>
+                    </div>
+                    <div class="kartu-sosmed5">
+                        <img src="img/sosmed5.png"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
 <div class="footer">
         
