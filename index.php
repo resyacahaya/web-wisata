@@ -10,9 +10,9 @@
  	<nav>
  	<img src="img/logoamazingkalsel.png" alt="logo">
         <ul>
-			<li><a href="alam.php?page=alam">ALAM</a></li>
-			<li><a href="kuliner.php?page=kuliner">KULINER</a></li>
-            <li><a href="religi.php?page=religi">RELIGI</a></li>
+			<li><a href="halaman/alam.php?page=alam">ALAM</a></li>
+			<li><a href="halaman/kuliner.php?page=kuliner">KULINER</a></li>
+            <li><a href="halaman/religi.php?page=religi">RELIGI</a></li>
 		</ul>
     </nav>
 
