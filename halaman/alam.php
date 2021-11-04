@@ -8,7 +8,9 @@
 <body>
 
  	<nav>
- 	<img src="/img/logoamazingkalsel.png" alt="logo">
+		<a href="/index.php">
+			<img src="/img/logoamazingkalsel.png" alt="logo">
+		</a>
         <ul>
 			<li><a href="alam.php?page=alam">ALAM</a></li>
 			<li><a href="kuliner.php?page=kuliner">KULINER</a></li>
