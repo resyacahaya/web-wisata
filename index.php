@@ -3,7 +3,7 @@
 <head>
 	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
-	<link rel="stylesheet" type="text/css" href="\css\index-style.css">
+	<link rel="stylesheet" type="text/css" href="css\index-style.css">
 </head>
 <body>
 
