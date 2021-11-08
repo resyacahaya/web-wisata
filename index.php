@@ -3,7 +3,7 @@
 <head>
 	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
-	<link rel="stylesheet" type="text/css" href="\css\style.css">
+	<link rel="stylesheet" type="text/css" href="css\style.css">
 </head>
 <body>
 
