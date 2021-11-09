@@ -6,8 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="/css/login.css">
     </head>
 <body>
-    <div id="wrapper">
-        <div id="header">
+    <div class="wrapper">
+        <div class="header">
  	<img src="/img/logoamazingkalsel.png" alt="logo">
 </div>
 </div>
