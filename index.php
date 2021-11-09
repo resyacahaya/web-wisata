@@ -3,9 +3,10 @@
 <head>
 	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
-	<link rel="stylesheet" type="text/css" href="\css\index-style.css">
+	<link rel="stylesheet" type="text/css" href="css\index-style.css">
 </head>
 <body>
+<!-- Navbar -->
  	<nav>
  	<img src="img/logoamazingkalsel.png" alt="logo">
         <ul>
@@ -85,10 +86,17 @@ dan rotan.</p>
                 </div>
             </div>
         </section>
+
+<!-- Instagram -->
+<div class="instagram">
+	<img src="img/akun-instagram.png" alt="akunig">
+    </div>
+
+<!-- Footer -->
 <div class="footer">
-        
 		<ul>
-			<li><a>Copyright 2021 - Amazing Kalsel</a></li>
+			<li><a>Copyright &#169; 2021 - Amazing Kalsel</a></li>
+            		<img src="img/icon-ig.png" alt="iconig">
 		</ul>
 	</div>
 </div>
