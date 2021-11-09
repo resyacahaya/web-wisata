@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Beranda Admin</title>
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/berandaadmin.css">
 	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 </head>
 <body>
