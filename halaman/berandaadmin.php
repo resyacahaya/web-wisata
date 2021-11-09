@@ -18,6 +18,37 @@
             <li><a href="#"><div class="religi"><img src="img/admin/icon-religi.png">Religi</div></a></li>
         </ul>
     </div>
+
+    <div class="main_content">
+        <div class="header1">
+          <b>hmmmmm</b>
+        </div>  
+        <div class="header2">
+          <b>Hello, Admin</b>
+        </div>
+
+        <div class="container">
+          <div class="col-1">
+            <br><h3>Beranda Traveler</h3>
+            <br><p>Beranda Traveler adalah tab utama ketika traveler pertama kali mengakses website.</p>
+          </div>
+          <div class="col-1">
+            <br><h3>Alam</h3>
+            <br><p>Rekomendasi destinasi wisata yang berhubungan dengan alam, seperti pantai, sungai, air terjun, gunung, dan masih banyak lagi.</p>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="col-1">
+            <br><h3>Kuliner</h3>
+            <br><p>Rekomendasi tempat wisata kuliner tradisional khas Kalimantan Selatan.</p>
+          </div>
+          <div class="col-1">
+            <br><h3>Religi</h3>
+            <br><p>Rekomendasi destinasi wisata yang berhubungan dengan tempat ibadah dan kegiatan atau event keagamaan.</p>
+          </div>
+        </div>
+    </div>
 </div>
 
 </body>
