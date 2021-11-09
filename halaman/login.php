@@ -3,12 +3,12 @@
 <head>
 	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
-	<link rel="stylesheet" type="text/css" href="\...\css\login.css">
+	<link rel="stylesheet" type="text/css" href="/css/login.css">
     </head>
 <body>
     <div id="wrapper">
         <div id="header">
- 	<img src="img/logoamazingkalsel.png" alt="logo">
+ 	<img src="/img/logoamazingkalsel.png" alt="logo">
 </div>
 </div>
         <div class="container">
