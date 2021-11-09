@@ -12,7 +12,7 @@
     <div class="sidebar">
         <h2><img src="img/logoamazingkalselputih.png"></a></h2>
         <ul>
-            <li><a href="#"><img src="img/admin/icon-home.png">Home</a></li>
+            <li><a href="#"><img src="../img/admin/icon-home.png">Home</a></li>
             <li><a href="#"><img src="img/admin/icon-alam.png">Alam</a></li>
             <li><a href="#"><img src="img/admin/icon-kuliner.png">Kuliner</a></li>
             <li><a href="#"><div class="religi"><img src="img/admin/icon-religi.png">Religi</div></a></li>
