@@ -22,15 +22,15 @@
           <div calss="col-1">
          <center> <h1>LOGIN ADMIN</h1></center> <br>
             <form>
-              <div class ="kotak">
+              <div ="kotak">
              <input class="kotak" type="text" placeholder="Username">
             </div>
             <br>
-              <div class ="kotak"> 
+              <div ="kotak"> 
                 <input class="kotak" type="text" placeholder="Password"> <br>
               </div>
               <br>
-              <div class="button">
+              <div ="button">
               <button type="submit" class="button" value="Masuk"> Masuk</button> 
             </form>
 </aside>
