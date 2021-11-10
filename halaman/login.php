@@ -23,11 +23,11 @@
          <center> <h1>LOGIN ADMIN</h1></center> <br>
             <form>
               <div class ="kotak">
-             <input type="text" placeholder="Username">
+             <input class="kotak" type="text" placeholder="Username">
             </div>
             <br>
               <div class ="kotak"> 
-                <input type="text" placeholder="Password"> <br>
+                <input class="kotak" type="text" placeholder="Password"> <br>
               </div>
               <br>
               <div class="button">
