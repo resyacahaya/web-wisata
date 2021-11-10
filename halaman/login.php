@@ -3,23 +3,35 @@
 <head>
 	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
-	<link rel="stylesheet" type="text/css" href="/css/login.css">
+  <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../css/login.css">
     </head>
 <body>
-    <div class="wrapper">
+    <div class="top-wrapper">
         <div class="header">
- 	<img src="/img/logoamazingkalsel.png" alt="logo">
+ 	<img src="../img/logoamazingkalsel.png" alt="logo">
 </div>
-</div>
-        <div class="container">
+  <div style="display: flex;">
+  <div class="container-left">
+    <img src="../img/login.png" alt="foto">
+  </div>
+  <aside>
+        <div class ="card">
+        <div class="container-right"> 
+          <div calss="col-1">
           <h1>LOGIN ADMIN</h1>
             <form>
-                <label>Username</label><br>
-                <input type="text"><br>
-                <label>Password</label><br>
-                <input type="password"><br>
+              <div class ="input">
+                <input type="text" name="Username" placeholder="Username">
+                <div>
+              <div class ="input">
+                <input type="text" password="Password" placeholder="Password"><br>
+              </div>
                 <button>Masuk</button>
             </form>
-        </div>     
+</aside>
+        </div>  
+</div>   
     </body>
 </html>
