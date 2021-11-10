@@ -128,7 +128,7 @@ button{
   display: inline-block;
 }
 
-.col-1 :hover h3{
+.col-1:hover h3{
   color: #fff;
 }
 
