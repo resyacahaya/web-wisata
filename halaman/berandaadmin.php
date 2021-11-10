@@ -29,7 +29,7 @@
         </div>
 
         <div class="container">
-          <div class="col-1"><a href="../index.php">
+          <div class="col-1"><a href="../index.php"></a>
             <div class="kotak"><img src="../img/admin/icon-home.png"></div>
             <br><h3>Beranda Traveler</h3>
             <br><p>Beranda Traveler adalah tab utama ketika traveler pertama kali mengakses website.</p>
