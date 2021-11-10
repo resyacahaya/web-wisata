@@ -20,15 +20,18 @@
         <div class ="card">
         <div class="container-right"> 
           <div calss="col-1">
-          <h1>LOGIN ADMIN</h1>
+         <center> <h1>LOGIN ADMIN</h1></center> <br>
             <form>
-              <div class ="input">
-                <input type="text" name="Username" placeholder="Username">
-                <div>
-              <div class ="input">
-                <input type="text" password="Password" placeholder="Password"><br>
+              <div class ="kotak">
+             <input type="text" placeholder="Username">
+            </div>
+            <br>
+              <div class ="kotak"> 
+                <input type="text" placeholder="Password"> <br>
               </div>
-                <button>Masuk</button>
+              <br>
+              <div class="button">
+              <button> Masuk</button> 
             </form>
 </aside>
         </div>  
