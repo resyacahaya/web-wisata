@@ -115,7 +115,16 @@ button{
 }
 
 .col-1 {
-  
+  border: 1px solid lightgray;
+  background-color: white;
+  width: 50%;
+  margin: 55px;
+  color: #717171;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-bottom: 20px;
+  margin-right: -30px;
 }
 
 .col-1 h3 a{
