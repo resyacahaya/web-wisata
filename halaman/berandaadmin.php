@@ -31,7 +31,7 @@
         <div class="container">
           <div class="col-1">
             <div class="kotak"><img src="../img/admin/icon-home.png"></div>
-            <br><h3><a href="../index.php">Beranda Traveler</a></h3>
+            <br><h3><a href="../index.php">Beranda Traveler</h3>
             <br><p>Beranda Traveler adalah tab utama ketika traveler pertama kali mengakses website.</p>
           </div>
           <div class="col-2">
