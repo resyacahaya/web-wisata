@@ -128,9 +128,15 @@ button{
   display: inline-block;
 }
 
-.col-1 a{
-  color: inherit;
+.col-1 a {
+  color: #0060B6;
   text-decoration: none;
+}
+
+.col-1 a:hover {
+  color:#00A0C6; 
+  text-decoration:none; 
+  cursor:pointer;  
 }
 
 .kotak{
