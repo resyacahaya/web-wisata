@@ -6,7 +6,6 @@
 	<link rel="stylesheet" type="text/css" href="\css\index-style.css">
 </head>
 <body>
-
  	<nav>
  	<img src="img/logoamazingkalsel.png" alt="logo">
         <ul>
@@ -15,7 +14,6 @@
             <li><a href="halaman/religi.php?page=religi">RELIGI</a></li>
 		</ul>
     </nav>
-
 <!-- Banner -->
     <div class="container">
       <div class="header">
@@ -40,9 +38,7 @@ kota pemandangan alam sungainya masih asli dan wisatawan dapat menyusuri sepanja
 perahu Klotok dan Speedboat.</p>
         <p>Kerajinan tradisional yang indah dibuat dari bahan baku lokal seperti batu, emas, perak, kuningan, besi, dan juga berbagai varietas kayu seperti bambu 
 dan rotan.</p>
-
 </div>
-
 <div class="wisata">
 		<h1>WISATA</h1>
 		<p>Berwisata di Kalimantan Selatan tidak cukup jika hanya mengunjungi satu kawasan<br>
@@ -63,8 +59,6 @@ dan rotan.</p>
                 </div>
             </div>
         </section>
-
-
 <div class="sosmed">
 		<h1>MEDIA SOSIAL</h1>
 		<p>Kunjungi dan ikuti juga akun Amazing Kalsel di Instagram <br>
@@ -91,16 +85,12 @@ dan rotan.</p>
                 </div>
             </div>
         </section>
-
-
 <div class="footer">
         
 		<ul>
 			<li><a>Copyright 2021 - Amazing Kalsel</a></li>
-
 		</ul>
 	</div>
-
 </div>
 </body>
 </html>

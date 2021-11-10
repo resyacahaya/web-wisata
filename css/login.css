@@ -6,14 +6,14 @@ body{
 }
  
 .content{
-	width: 100%;
+	width: 50%;
 }
  
  /*banner*/
 .container{
-	width: 100%;
+	width: 50%;
 }
- 
+
 .header {
     padding: 0px;
     text-align: center;
@@ -21,4 +21,40 @@ body{
     font-size: 30px;
     background-position: center;
 	margin-top: -20px;
+}
+.left-wrapper{
+	padding: 180px 0 100px 0;
+ 	background-image: "../img/login.png";
+	background-size: cover;
+ 	color: rgb(26, 27, 27);
+ 	text-align: center;
+  	height: 660px;
+}
+.aside{
+	width: 780px;
+	height: 720px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.card {
+	background: #fbfbfb;
+	border-radius: 5px;
+	box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.65);
+	height: 720px;
+	margin: auto;
+	width: 780px;
+}
+
+.col-1{
+	background-color:#fbfbfb;
+	width: 100%;
+	margin: 100px;
+	height: center;
+	text-align: Center;
+	color: #7C1212;	
+}
+.masuk{
+	color: #7C1212;	
 }

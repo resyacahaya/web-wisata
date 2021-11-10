@@ -3,23 +3,41 @@
 <head>
 	<title>Amazing Kalsel</title>
 	<!-- menghubungkan dengan file css -->
-        <link rel="stylesheet" href="login.css">
+        <link rel="stylesheet" type="text/css" href="../css/login.css">
     </head>
 <body>
-    <div id="wrapper">
-        <div id="header">
- 	<img src="img/logoamazingkalsel.png" alt="logo">
+    <div class="wrapper">
+        <div class="header">
+ 	<img src="../img/logoamazingkalsel.png" alt="logo">
+    </div>
+        </div>
+        <div style="display: flex;">
+        <div class="left-wrapper">
+            <img src="../img/login.png" alt="logo">
 </div>
-</div>
+        <div class="aside">
+        <div class = "card">
         <div class="container">
-          <h1>LOGIN ADMIN</h1>
-            <form>
-                <label>Username</label><br>
-                <input type="text"><br>
-                <label>Password</label><br>
-                <input type="password"><br>
-                <button>Masuk</button>
-            </form>
-        </div>     
+            <div class="col-1">
+            <h1>LOGIN ADMIN</h1>
+            <form action="">
+                <div class="form-group">
+                  <input type="text" name="" class="form-control" placeholder="Username">
+                </div>
+
+                <div class="form-group">
+                  <input type="text" name="" class="form-control" placeholder="Password">
+                </div>
+                <div class="form-group custom-control custom-checkbox">
+                
+                <div class="Masuk">
+                  <input type="submit" name="" value="Masuk" class="btn btn-primary btn-block">
+                </div>
+              </form>        
+</aside>
+
+        </div> 
+</div>
+</div>    
     </body>
 </html>
