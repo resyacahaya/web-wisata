@@ -129,11 +129,11 @@ button{
 }
 
 .col-1 h3 a{
-  color: #0060B6;
+  color: #717171;
   text-decoration: none;
 }
 
-.col-1 h3:hover {
+.col-1 h3:hover a{
   color:#00A0C6; 
   text-decoration:none; 
   cursor:pointer;  
