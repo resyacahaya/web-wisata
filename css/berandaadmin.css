@@ -128,8 +128,8 @@ button{
   display: inline-block;
 }
 
-.col-1:hover h3{
-  color: #fff;
+.col-1 a{
+  color: inherit;
 }
 
 .kotak{
