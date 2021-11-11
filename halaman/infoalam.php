@@ -5,7 +5,6 @@
 	<link rel="stylesheet" type="text/css" href="../css/infowisata.css">
 </head>
 <body>
-<header>
 <!-- Navbar -->
  	<nav>
  		<a href="../index.php">
