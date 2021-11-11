@@ -21,6 +21,33 @@ p{
 }
 /*menu navigasi*/
 
+nav {
+   background-color: #f0f0f0;
+   padding: 5px;
+   text-align: right;
+   position: sticky;
+   top: 0;
+   overflow: auto;
+}
+nav li {
+   display: inline;
+   list-style-type: none;
+   margin-right: 20px;
+   width: 10px;
+}
+nav a {
+   font-size: 16px;
+   font-weight: 600;
+   text-decoration: none;
+   color: #000;
+   margin-top: 30px;
+}
+nav img{
+	margin-left: 30px; 
+	float: left;
+	height: 45px;
+}
+
 header {
    background-color: #ffffff;
    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
