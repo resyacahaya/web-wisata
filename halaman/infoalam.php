@@ -7,7 +7,6 @@
 <body>
 <!-- Navbar -->
 	<header>
-		<a href="../index.php">
 		<img src="../img/logoamazingkalsel.png" alt="logo">
 				<ul>
                     			<li><a href="home.php?page=alam">Home</a></li>
