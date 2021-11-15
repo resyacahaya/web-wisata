@@ -23,10 +23,7 @@
     <div class="main_content">
         <div class="header1">
           <b>Admin</b><button type="button">Logout</button>
-        </div>  
-        <div class="header2">
-          <b>Hello, Admin</b>
-        </div>
+        </div> 
     </div>
 </div>
 
