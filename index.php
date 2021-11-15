@@ -40,6 +40,7 @@ perahu Klotok dan Speedboat.</p>
         <p>Kerajinan tradisional yang indah dibuat dari bahan baku lokal seperti batu, emas, perak, kuningan, besi, dan juga berbagai varietas kayu seperti bambu 
 dan rotan.</p>
 </div>
+
 <div class="wisata">
 		<h1>WISATA</h1>
 		<p>Berwisata di Kalimantan Selatan tidak cukup jika hanya mengunjungi satu kawasan<br>
@@ -49,13 +50,16 @@ dan rotan.</p>
         <section id="wisata">
                 <div class="wisata-list">
                     <div class="kartu-alam">
-                        <img src="img/alam-wisata.png"/>
+                    <a href="halaman/alam.php?page=alam">
+                        <img src="img/alam-wisata.png"/></a>
                     </div>
                     <div class="kartu-kuliner">
-                        <img src="img/kuliner-wisata.png"/>
+                    <a href="halaman/kuliner.php?page=kuliner">
+                        <img src="img/kuliner-wisata.png"/></a>
                     </div>
                     <div class="kartu-religi">
-                        <img src="img/religi-wisata.png"/>
+                    <a href="halaman/religi.php?page=religi">
+                        <img src="img/religi-wisata.png"/></a>
                     </div>
                 </div>
             </div>
