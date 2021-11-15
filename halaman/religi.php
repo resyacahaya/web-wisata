@@ -13,7 +13,7 @@
 				<ul>
 					<li><a href="alam.php?page=alam">ALAM</a></li>
 					<li><a href="kuliner.php?page=kuliner">KULINER</a></li>
-					<li><a href="religi.php?page=religi">RELIGI</a></li>
+					<li><a href="religi.php?page=religi" class="active">RELIGI</a></li>
 				</ul>
 			</nav>
 <!-- Banner -->
@@ -89,6 +89,7 @@
         
 		<ul>
 			<li><a>Copyright &#169; 2021 - Amazing Kalsel</a></li>
+            <a href="https://instagram.com/amazingkalsel/">
             <img src="../img/icon-ig.png" alt="instagram">
 		</ul>
         
