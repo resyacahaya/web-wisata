@@ -69,18 +69,23 @@ dan rotan.</p>
         <section id="sosmed">
                 <div class="sosmed-list">
                     <div class="kartu-sosmed1">
+                    <a href="https://instagram.com/amazingkalsel/">
                         <img src="img/sosmed1.png"/>
                     </div>
                     <div class="kartu-sosmed2">
+                    <a href="https://instagram.com/amazingkalsel/">
                         <img src="img/sosmed2.png"/>
                     </div>
                     <div class="kartu-sosmed3">
+                    <a href="https://instagram.com/amazingkalsel/">
                         <img src="img/sosmed3.png"/>
                     </div>
                     <div class="kartu-sosmed4">
+                    <a href="https://instagram.com/amazingkalsel/">
                         <img src="img/sosmed4.png"/>
                     </div>
                     <div class="kartu-sosmed5">
+                    <a href="https://instagram.com/amazingkalsel/">
                         <img src="img/sosmed5.png"/>
                     </div>
                 </div>
@@ -89,6 +94,7 @@ dan rotan.</p>
 
 <!-- Instagram -->
 <div class="instagram">
+    <a href="https://instagram.com/amazingkalsel/">
 	<img src="img/akun-instagram.png" alt="akunig">
     </div>
 
@@ -96,6 +102,7 @@ dan rotan.</p>
 <div class="footer">
 		<ul>
 			<li><a>Copyright &#169; 2021 - Amazing Kalsel</a></li>
+                    <a href="https://instagram.com/amazingkalsel/">
             		<img src="img/icon-ig.png" alt="iconig">
 		</ul>
 	</div>
