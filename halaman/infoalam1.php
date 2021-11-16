@@ -19,7 +19,7 @@
 		<div class=card>
 		<div class="container" align="left"> 
 		<h1>Air Terjun Mandin Mangapan</h1>
-		<img src="../img/ArterMandinMangapan.jpg" alt="gambar">
+		<img src="../img/wisata-alam/ArterMandinMangapan.jpg" alt="gambar">
 		<div style="display: flex;">
    		<div class="container-left">
 	   <table border="0,8">
