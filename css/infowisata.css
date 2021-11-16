@@ -10,12 +10,14 @@ h1{
    padding: 50px;
    margin: 14px 0;
 }
-p{
-   color:#ebe8e8;
-	font-family: sans-serif;
-   margin-right: top;
+font{
+   margin-right: 10px;
+   padding: 5px;
+   font-family: sans-serif;
+   color:#777777;
+   align-items: right;
+   font-size: 20px;
 }
- 
 .content{
 	width: 100%;
 }
@@ -47,7 +49,6 @@ nav img{
 	float: left;
 	height: 45px;
 }
-
 header {
    background-color: #ffffff;
    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -87,19 +88,20 @@ nav{
 	background: #fbfbfb;
 	border-radius: 3px;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-	height: 680px;
+	height: 700px;
 	margin: auto;
 	width: 1500px;
 }
 nav img {
-   width: 780px;
-   height: 430px;
-   margin: 0;
-   padding: 0;
+   width: 620px;
+   height: 390px;
+   margin-right: 8px;
+   padding: 5px;
    -webkit-box-shadow: 0 0 20px #000;
-   box-shadow: 0 0 20 px rgb(218, 215, 215);
-   border-radius: 8px;
+   box-shadow: 0 0 20px rgb(250, 248, 248);
+   border-radius: 9px;
 }
+
 .footer{
 	background-color: #fff;
     padding: 10px;
