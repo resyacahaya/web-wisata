@@ -17,7 +17,7 @@
 	</header>
 <nav>
 <div class=card>
-<div class="container"> 
+<div class="container" align="left"> 
 	<h1>Air Terjun Mandin Mangapan</h1>
 	<img src="../img/ArterMandinMangapan.jpg" alt="gambar">
 	<div style="display: flex;">
