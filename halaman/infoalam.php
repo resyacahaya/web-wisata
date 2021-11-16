@@ -22,15 +22,17 @@
 	<img src="../img/ArterMandinMangapan.jpg" alt="gambar">
 	<div style="display: flex;">
    <div class="container-left">
-</nav>
-	<div class="container-right">
-	<p>Air Terjun Mandin mangapan berlokasi di Desa Paramasan Atas, Kecamatan Peramasan, <br>
+	   <table border="0,8">
+   <td><font face="sans-serif" size="4" color="#777777" align="right">Air Terjun Mandin mangapan berlokasi di Desa Paramasan Atas, Kecamatan Peramasan, <br>
 Kabupaten Banjar, Kalimantan Selatan, sebuah air terjun dengan ketinggian lebih <br>
 kurang 30 meter, berada di pedalaman kalimantan selatan pasnya di Gunung Ambil atau <br> 
 Desa Paramasan Atas, Jarak untuk menempuh perjalanan kurang lebih akan menghabiskan <br>
 waktu selama 3 jam menuju Kecamatan Paramasan didalam perjalanan pengunjung akan <br>
 melewati lokasi pedesaan Bancing dan Peramasan atas yang dihuni oleh masyarakat <br>
-		suku Dayak Paramasan. </p>
+		suku Dayak Paramasan.</td>
+</table>
+</nav>
+	
 
 <div class="footer">
         
