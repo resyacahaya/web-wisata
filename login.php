@@ -1,4 +1,4 @@
-<?php
+<?
 include'koneksilogin.php';
 
 $username =$_POST['username'];
