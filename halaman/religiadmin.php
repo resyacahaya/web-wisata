@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Religi Admin</title>
-	<link rel="stylesheet" type="text/css" href="../css/berandaadmin.css">
+	<link rel="stylesheet" type="text/css" href="../css/alamadmin.css">
 	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 </head>
 <body>
@@ -22,8 +22,51 @@
     </div>
     <div class="main_content">
         <div class="header1">
-          <b>Admin</b><button type="button">Logout</button>
-        </div>
+          <b class="judul">Religi</b> 
+          <b class="admin">Admin</b><button type="button">Logout</button>
+        </div> 
+        <table class="content-table">
+        <thead>
+          <tr>
+            <th>No</th>
+            <th>Judul</th>
+            <th>Deskripsi</th>
+            <th>Gambar</th>
+            <th>Aksi</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>judul</td>
+            <td>deskripsi</td>
+            <td>gambar</td>
+            <td><button class="editbutton">Edit</button><button class="hapusbutton">Hapus</button></td>
+          </tr>
+        <!-- <tr class="active-row"> -->
+          <tr>
+            <td>2</td>
+            <td>judul</td>
+            <td>deskripsi</td>
+            <td>gambar</td>
+            <td><button class="editbutton">Edit</button><button class="hapusbutton">Hapus</button></td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>judul</td>
+            <td>deskripsi</td>
+            <td>gambar</td>
+            <td><button class="editbutton">Edit</button><button class="hapusbutton">Hapus</button></td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>judul</td>
+            <td>deskripsi</td>
+            <td>gambar</td>
+            <td><button class="editbutton">Edit</button><button class="hapusbutton">Hapus</button></td>
+          </tr>
+        </tbody>
+        </table>
     </div>
 </div>
 
